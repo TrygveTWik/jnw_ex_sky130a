@@ -10,12 +10,11 @@ trygvtw
 
 # Why
 
-<explain why you made this module>
+To complete milestone zero
 
 # How
 
-<explain short how you made this module>
-
+Following the tutorial
 
 # What
 
@@ -34,11 +33,11 @@ trygvtw
 
 # Signal interface
 
-| Signal       | Direction | Domain  | Description                               |
-| :---         | :---:     | :---:   | :---                                      |
-| VDD_1V8         | Input     | VDD_1V8 | Main supply                              |
-| VSS         | Input     | Ground  |                                           |
-| PWRUP_1V8     | Input    | VDD_1V8 | Power up the circuit                       |
+| Signal       | Direction | Domain  | Description                             |
+| :---         | :---:     | :---:   | :---                                    |
+| VSS          | Input     | Ground  |  		                       |
+| IBPS_5U      | Input     | 	     |                                         |
+| IBNS_20U     | Input	   |  	     | 			                       |
 
 
 # Key parameters

@@ -13,6 +13,6 @@ def main(name):
 
   # Do something to parameters
 
-  # Save new yaml file
+  #Save new yaml file
   with open(yamlfile,"w") as fo:
     yaml.dump(obj,fo)
