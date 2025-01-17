@@ -12,7 +12,7 @@ def main(name):
     obj = yaml.safe_load(fi)
 
   # Do something to parameters
-  
+
   # Save new yaml file
   with open(yamlfile,"w") as fo:
     yaml.dump(obj,fo)
