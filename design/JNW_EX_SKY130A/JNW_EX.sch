@@ -30,9 +30,6 @@ N -100 -380 -60 -380 {lab=VSS}
 N -100 -440 -100 -380 {lab=VSS}
 N -100 -440 -60 -440 {lab=VSS}
 N -60 -380 120 -380 {lab=VSS}
-C {cborder/border_s.sym} 430 -150 0 0 {
-user="wulff"
-company="wulff"}
 C {devices/ipin.sym} -120 -520 0 0 {name=IBPS_5U lab=IBPS_5U }
 C {devices/ipin.sym} -120 -360 0 0 {name=VSS lab=VSS}
 C {devices/ipin.sym} 180 -520 0 1 {name=IBNS_20U lab=IBNS_20U }
